@@ -1,4 +1,4 @@
-# Turkiye-Cities-Districts
+# Cities Of Turkiye (Türkiye'nin Şehirleri)
 
 [TR]
 Türkiye'nin illerini ve ilçelerini gösteren bir JSON dosyası bulunmaktadır. 
@@ -13,3 +13,8 @@ You can use this JSON file as you wish.
 It took **4 hours** to acquire this.
 You can see only populations of cities.
 Data is handled according https://nufusu.com/ web site.
+
+# Where Can I use it? (Nerede Kullanabilirim?)
+[TR] Javascript, PHP, Jquery, C# gibi dillerin hepsinde kullanabilirsiniz.
+
+[EN] You can use at many languages such as Javascript, PHP, JQuery, C# etc.
